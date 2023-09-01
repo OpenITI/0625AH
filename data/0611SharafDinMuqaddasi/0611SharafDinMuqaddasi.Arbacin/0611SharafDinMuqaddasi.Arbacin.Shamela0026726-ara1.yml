@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://ebook.univeyes.com/36120/pdf-الأربعين-المرتبة-على-طبقات-الأربعين-المقدسي-ت-العبادي-ط-أضواء-السلف
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: A manuscript of the text is accessible here: https://www.alukah.net/manu/files/manuscript_8171/alarbeyn-almirtaba.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-13
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION
