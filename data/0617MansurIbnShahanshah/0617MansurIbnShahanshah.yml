@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0671-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "al-Malik Muḥammad b. ʿUmar b. s̲h̲āhans̲h̲āh , local ruler of Ḥamāt [q.v.], historian and patron of letters, b. 567/1171-2 (al-Maḳrīzī, Sulūk , i, 205), son of Ṣalāḥ al-Dīn’s nephew al-Malik al-Muẓaffar Taḳī al-Dīn ʿUmar [q.v.], and paternal grandfather of Abu ’l-Fidā": http://dx.doi.org/10.1163/1573-3912_islam_COM_0666

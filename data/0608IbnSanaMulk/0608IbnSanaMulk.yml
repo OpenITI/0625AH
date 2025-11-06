@@ -14,6 +14,7 @@
 30#AUTH#DIED###AH: 0608-RAM-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: 0576AbuTahirSilafi,
+70#AUTH#EXTID####: wikidata@Q6536185
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Data from 0681IbnKhallikan.WafayatAcyan via
     https://www.marefa.org/%D8%A7%D8%A8%D9%86_%D8%B3%D9%86%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D9%84%D9%83
