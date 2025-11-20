@@ -11,5 +11,7 @@
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0625AH/pre-clean/data/0606IbnAthirMajdDin/0606IbnAthirMajdDin.NihayaFiGharib/0606IbnAthirMajdDin.NihayaFiGharib.JK000124-ara1
+    NB: Since this version did not contain the author's introduction,
+    the Shamela version was made primary.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: 
