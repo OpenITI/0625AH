@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1050627
-00#VERS#LENGTH###: 220694
+00#VERS#CLENGTH##: 1050635
+00#VERS#LENGTH###: 220690
 00#VERS#URI######: 0606FakhrDinRazi.MulakhkhasFiMantiqWaHikma.AOCP20251104056Vols-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
@@ -11,4 +11,4 @@
     record valuable information, which is difficult to formalize into the above
     given categories.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION
